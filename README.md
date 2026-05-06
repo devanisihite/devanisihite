@@ -1,6 +1,6 @@
-# 🦄 Hello Everypony! I'm Devani Agnesia ✨
-
 ![Typing](https://readme-typing-svg.herokuapp.com/?color=F78DA7&center=true&vCenter=true&lines=QA+Engineer;System+Analyst;Business+Analyst;Quality+is+Magic!+🦄)
+
+# 🦄 Hello Everypony! I'm Devani Agnesia ✨
 
 🌈 QA Engineer | System Analyst | Business Analyst  
 💖 Turning requirements into quality software with a touch of magic 
