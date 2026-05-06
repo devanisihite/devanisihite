@@ -39,7 +39,7 @@
 ---
 
 ## 💖 Contact
-Email: devanisihite04@gmail.com@email.com
+Email: devanisihite04@gmail.com
 
 ---
 
