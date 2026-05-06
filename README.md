@@ -4,10 +4,6 @@
 
 ![Typing](https://readme-typing-svg.herokuapp.com/?color=F78DA7&center=true&vCenter=true&lines=QA+Engineer;System+Analyst;Business+Analyst;Quality+is+Magic!+🦄)
 
-![banner](https://your-image-link.com/pony-banner.png)
-
-![Typing](https://readme-typing-svg.herokuapp.com/?color=F78DA7&center=true&vCenter=true&lines=QA+Engineer;System+Analyst;Business+Analyst)
-
 ---
 
 ## 🌟 About Me
@@ -27,19 +23,9 @@
 
 ---
 
-## 📊 GitHub Stats
-![stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
-
----
-
 ## 🧪 Sample Project Preview
 
 ![testcase](https://your-image-link.com/testcase.png)
-
----
-
-## 💖 Contact
-Email: devanisihite04@gmail.com
 
 ---
 
