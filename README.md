@@ -1,4 +1,4 @@
-# 🦄 Hello Everypony! I'm Devani Agnesia ✨
+# 🦄 Hello Everypony! I'm Devani✨
 
 ![banner](https://your-image-link.com/pony-banner.png)
 
