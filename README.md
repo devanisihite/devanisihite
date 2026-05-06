@@ -1,43 +1,32 @@
-![Typing](https://readme-typing-svg.herokuapp.com/?color=F78DA7&center=true&vCenter=true&lines=QA+Engineer;System+Analyst;Business+Analyst;Quality+is+Magic!+🦄)
-
 # 🦄 Hello Everypony! I'm Devani Agnesia ✨
 
+![Typing](https://readme-typing-svg.herokuapp.com/?color=F78DA7&center=true&vCenter=true&lines=QA+Engineer;System+Analyst;Business+Analyst;Quality+is+Magic!+🦄)
+
 🌈 QA Engineer | System Analyst | Business Analyst  
-💖 Turning requirements into quality software with a touch of magic 
+💖 Turning requirements into quality software with a touch of magic  
 
 ---
 
 ## 🌟 About Me
-- 🔍 Passionate in Quality Assurance & Testing
-- 📊 Love analyzing systems & business requirements
-- 🧠 Strong in problem solving & critical thinking
-- 🌱 Currently learning automation testing & API testing
+- 🔍 Passionate in Quality Assurance
+- 📊 Love analyzing systems & business needs
+- 🌱 Learning automation & API testing
+- 🦄 Pony vibe: Twilight Sparkle (smart & analytical)
 
 ---
 
-## 🛠️ Skills & Tools
-### 🧪 QA & Testing
-- Manual Testing
-- Test Case Design
-- Bug Reporting
-- Regression Testing
-
-### 📊 Analysis
-- System Analysis
-- Business Requirement Analysis
-- Flowchart & Documentation
-
-### ⚙️ Tools
-- Postman
-- Cypress
-- Git & GitHub
+## 🛠️ Skills
+✨ Manual Testing  
+✨ Test Case Design  
+✨ System Analysis  
+✨ Business Analysis  
 
 ---
 
-## 🌈 My Projects
-- 🦄 Test Case Documentation Project
-- 📊 System Analysis Case Study
-- 🔍 API Testing Collection (Postman)
+## 🌈 Projects
+- 🦄 Test Case Project  
+- 📊 System Analysis Study  
+- 🔍 API Testing (Postman)  
 
 ---
 
@@ -47,8 +36,8 @@
 ---
 
 ## 💖 Contact
-- 📫 Email: devanisihite04@gmail.com
+- 📫 your@email.com  
 
 ---
 
-✨ "Quality is magic when analysis meets testing" 🦄
+✨ "Quality + Analysis = Magic" 🦄
